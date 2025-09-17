@@ -63,4 +63,4 @@ wine-market-analysis/
 ---
 
 ## 📌 Conclusion
-By targeting wines priced **$9.90–$32.50** from wineries with **ratings >4.0**, businesses can maximize profitability in the wine market.
+This project gives us an insight on the price range of wines an organization can invest into for maximum profits.
