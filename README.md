@@ -1,5 +1,3 @@
-# wine-market-analysis
-
 # 🍷 Wine Market Investment Analysis
 
 ## 📌 Overview
@@ -39,28 +37,16 @@ The goal was to identify profitable investment opportunities by analyzing wine p
 
 ## 📂 Repository Structure
 
+```text
 wine-market-analysis/
-│── README.md
-│── data/
-│    ├── wine.xlsx
-│    ├── region.xml
-│    ├── wine_ratings.txt
-│── reports/
-│    ├── Wine_Analysis_Report.pdf
-│── visuals/
-│    ├── histogram.png
-│    ├── boxplot.png
-│    ├── pivot_table.png
-
----
-
-## 🚀 How to Reproduce
-1. Open `wine.xlsx` in Excel.  
-2. Import data from `region.xml` and `wine_ratings.txt`.  
-3. Follow the cleaning steps in `/reports/Assignment3.docx`.  
-4. Generate histograms, boxplots, and pivot tables.  
-
----
-
-## 📌 Conclusion
-This project gives us an insight on the price range of wines an organization can invest into for maximum profits.
+├─ README.md
+├─ data/
+│  ├─ wine.xlsx
+│  ├─ region.xml
+│  └─ wine_ratings.txt
+├─ reports/
+│  └─ Wine_Analysis_Report.pdf
+└─ visuals/
+   ├─ histogram.png
+   ├─ boxplot.png
+   └─ pivot_table.png
